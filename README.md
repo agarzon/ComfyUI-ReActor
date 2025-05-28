@@ -8,10 +8,10 @@
   <font color=brightred>
 
   ## !!! [Important Update](#latestupdate) !!!<br>Don't forget to add the Node again in existing workflows
-  
+
   </font>
   </sup>-->
-  
+
   <a href="https://boosty.to/artgourieff" target="_blank">
     <img src="https://lovemet.ru/img/boosty.jpg" width="108" alt="Support Me on Boosty"/>
     <br>
@@ -21,16 +21,22 @@
   </a>
 
   <hr>
-  
-  [![Commit activity](https://img.shields.io/github/commit-activity/t/Gourieff/ComfyUI-ReActor/main?cacheSeconds=0)](https://github.com/Gourieff/ComfyUI-ReActor/commits/main)
-  ![Last commit](https://img.shields.io/github/last-commit/Gourieff/ComfyUI-ReActor/main?cacheSeconds=0)
-  [![Opened issues](https://img.shields.io/github/issues/Gourieff/ComfyUI-ReActor?color=red)](https://github.com/Gourieff/ComfyUI-ReActor/issues?cacheSeconds=0)
-  [![Closed issues](https://img.shields.io/github/issues-closed/Gourieff/ComfyUI-ReActor?color=green&cacheSeconds=0)](https://github.com/Gourieff/ComfyUI-ReActor/issues?q=is%3Aissue+state%3Aclosed)
-  ![License](https://img.shields.io/github/license/Gourieff/ComfyUI-ReActor)
 
-  English | [Русский](/README_RU.md)
+[![Commit activity](https://img.shields.io/github/commit-activity/t/Gourieff/ComfyUI-ReActor/main?cacheSeconds=0)](https://github.com/Gourieff/ComfyUI-ReActor/commits/main)
+![Last commit](https://img.shields.io/github/last-commit/Gourieff/ComfyUI-ReActor/main?cacheSeconds=0)
+[![Opened issues](https://img.shields.io/github/issues/Gourieff/ComfyUI-ReActor?color=red)](https://github.com/Gourieff/ComfyUI-ReActor/issues?cacheSeconds=0)
+[![Closed issues](https://img.shields.io/github/issues-closed/Gourieff/ComfyUI-ReActor?color=green&cacheSeconds=0)](https://github.com/Gourieff/ComfyUI-ReActor/issues?q=is%3Aissue+state%3Aclosed)
+![License](https://img.shields.io/github/license/Gourieff/ComfyUI-ReActor)
+
+English | [Русский](/README_RU.md)
 
 # ReActor Nodes for ComfyUI<br><sub><sup>-=SFW-Friendly=-</sup></sub>
+
+# 🚀 Why is this fork awesome? 🚀
+
+### 🔥 This fork keeps all the magic of the original ComfyUI-ReActor but puts YOU in control! Now, you get to set your own detection threshold. The default is still a safe and sound 96% (super work-friendly and fully Github-compliant) — but if you want to tweak it, the power is in your hands! 💪✨
+
+---
 
 </div>
 
@@ -41,6 +47,7 @@
 <div align="center">
 
 ---
+
 [**What's new**](#latestupdate) | [**Installation**](#installation) | [**Usage**](#usage) | [**Troubleshooting**](#troubleshooting) | [**Updating**](#updating) | [**Disclaimer**](#disclaimer) | [**Credits**](#credits) | [**Note!**](#note)
 
 ---
@@ -98,7 +105,6 @@ Just put them into the "models/reswapper" directory.
 </center>
 
 - Fixes and improvements
-
 
 ### 0.5.1
 
@@ -238,6 +244,7 @@ Thanks to everyone who finds bugs, suggests new features and supports this proje
 You can find ReActor Nodes inside the menu `ReActor` or by using a search (just type "ReActor" in the search field)
 
 List of Nodes:
+
 - ••• Main Nodes •••
   - ReActorFaceSwap (Main Node)
   - ReActorFaceSwapOpt (Main Node with the additional Options input)
@@ -403,6 +410,7 @@ The developers of this software are aware of its possible unethical applications
 Users of this software are expected to use this software responsibly while abiding the local law. If face of a real person is being used, users are suggested to get consent from the concerned person and clearly mention that it is a deepfake when posting content online. **Developers and Contributors of this software are not responsible for actions of end-users.**
 
 By using this extension you are agree not to create any content that:
+
 - violates any laws;
 - causes any harm to a person or persons;
 - propagates (spreads) any information (both public or personal) or images (both public or personal) which could be meant for harm;
@@ -422,6 +430,7 @@ Please note that if you intend to use this software for any commercial purposes,
 #### Safe-to-use models have the following hash:
 
 inswapper_128.onnx
+
 ```
 MD5:a3a155b90354160350efd66fed6b3d80
 SHA256:e4a3f08c753cb72d04e10aa0f7dbe3deebbf39567d4ead6dce08e98aa49e16af
